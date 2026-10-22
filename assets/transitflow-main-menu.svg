@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title description">
+  <title id="title">TransitFlow SL terminal main menu</title>
+  <desc id="description">The TransitFlow SL console home screen with registration, rider login, directory, analytics, and exit options.</desc>
+  <rect width="960" height="440" rx="12" fill="#111827"/>
+  <path d="M12 0h936a12 12 0 0 1 12 12v34H0V12A12 12 0 0 1 12 0Z" fill="#1f2937"/>
+  <circle cx="25" cy="23" r="6" fill="#f87171"/>
+  <circle cx="47" cy="23" r="6" fill="#fbbf24"/>
+  <circle cx="69" cy="23" r="6" fill="#34d399"/>
+  <text x="480" y="28" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="14">TransitFlow SL — Terminal</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="18">
+    <text x="38" y="91" fill="#22d3ee">================================================================================</text>
+    <text x="101" y="121" fill="#22d3ee" font-weight="700">TRANSITFLOW SL: COMMERCIAL BIKE UNION MANAGEMENT (SDG 11)</text>
+    <text x="38" y="151" fill="#22d3ee">================================================================================</text>
+    <text x="38" y="201" fill="#facc15">1.</text>
+    <text x="70" y="201" fill="#e5e7eb">Register New Rider &amp; Motorcycle</text>
+    <text x="38" y="237" fill="#facc15">2.</text>
+    <text x="70" y="237" fill="#e5e7eb">Rider Login Portal (Password Secure)</text>
+    <text x="38" y="273" fill="#facc15">3.</text>
+    <text x="70" y="273" fill="#e5e7eb">View Registered Riders Directory (Table View)</text>
+    <text x="38" y="309" fill="#facc15">4.</text>
+    <text x="70" y="309" fill="#e5e7eb">View Union Analytics &amp; Revenue Summary</text>
+    <text x="38" y="345" fill="#facc15">5.</text>
+    <text x="70" y="345" fill="#e5e7eb">Exit Application</text>
+    <text x="38" y="397" fill="#60a5fa">Select an option (1-5):</text>
+    <rect x="280" y="378" width="10" height="25" fill="#60a5fa"/>
+  </g>
+</svg>
