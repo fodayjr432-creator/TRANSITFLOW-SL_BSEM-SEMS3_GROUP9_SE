@@ -1,6 +1,6 @@
 # TransitFlow SL - Commercial Bike Union Management System (SDG 11)
 
-## Overview & Primary Purpose
+## Overview, insights & Primary Purpose
 **TransitFlow SL** is an enterprise-grade, console-based software application engineered to digitize, secure, and streamline commercial motorcycle (**Okada**) union management across Freetown, Sierra Leone. 
 
 ### Primary Purpose:
